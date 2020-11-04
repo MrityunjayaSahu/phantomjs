@@ -23,3 +23,6 @@ page.open(address, function (status) {
 
   phantom.exit()
 })
+
+
+// Added Test code
